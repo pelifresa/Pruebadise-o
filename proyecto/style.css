@@ -1,0 +1,120 @@
+
+/*ENUNCIADOS*/
+
+h2, h3{
+	color: #4c5c81;
+	font-family: Oswald;
+}
+
+h4{
+	text-align: center;
+	font-family: Oswald;
+}
+
+
+/*TAMAÑO IMAGENES*/
+
+img{
+	max-height: 100vh;
+}
+
+/*TAMAÑO TEXTOS BLOQUES*/
+
+p{
+	text-align: center;
+	font-size: 18px;
+	font-family: Montserrat;
+}
+
+strong{
+	color: #f0b93e;
+}
+
+/*ICONOS*/
+
+svg{
+	width: 50px;
+	height: 30px;
+	text-align: left;
+	color: #f0b93e;
+}
+
+.icon{
+	max-height:60px;
+}
+
+/*BOTONES*/
+
+.btn-warning{
+	background: #f0b93e !important;
+	color: white !important;
+	position: inherit;
+	margin-top: -200px;
+}
+
+.mano{
+	color: #f0b93e  !important;
+	position: inherit;
+	margin-top: -200px;
+	width: 70px;
+	height: 100px;
+	transform: rotate(270deg);
+}
+
+
+/*APARTADO DE CURSOS*/
+
+.ofertas p, h4{
+	text-align: left;
+	margin-left: 200px;
+	margin-top: 15px;
+	color: white;
+}
+
+.bluewalls{
+	background: #4c5c81;
+	margin: 30px;
+	border-radius: 200px 200px 200px 200px;
+	-moz-border-radius: 200px 200px 200px 200px;
+	-webkit-border-radius: 0px 0px 300px 300px;
+	border: 0px solid #000000;
+	margin-bottom: 100px;
+}
+
+
+/*FONDOS AZULES CLAROS Y OSCUROS DE LA PÁGINA*/
+
+.fondoazul{
+	background: #203354;
+}
+
+.fondoazul h2, p{
+	color: white;
+}
+
+.whitewalls{
+	background: white;
+	opacity:0.6;
+}
+
+.whitewalls p{
+	color:#4c5c81 ; 
+	padding: 40px;
+}
+
+.h1walss{
+	background: #4c5c81;
+}
+
+
+/*FIGURAS TRIANGULARES*/
+
+.triangulo1 {
+      width: 63px;
+    height: 33px;
+    margin-top: 48px;
+    border-top: 38px solid transparent;
+    border-left: 75px solid #4c5c81;
+}
+
+
